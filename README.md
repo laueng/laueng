@@ -9,8 +9,11 @@
 <img width="140" src="https://user-images.githubusercontent.com/113802190/190931825-a9dd7e1e-e3ab-4437-9eac-95a333593b8a.png">
 <img width="100" src="https://user-images.githubusercontent.com/113802190/190931582-3371fd7f-f303-4612-94aa-c851aedb156b.png">
 
-<h3> 🔧 LENGUAGES & TOOLS:</h3>
+<h3> 🔥🔧 LENGUAGES & TOOLS:</h3>
 <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" alt="Git"
+    width="40" height="40"/>
+    
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"
     width="40" height="40"/>
     </div>
