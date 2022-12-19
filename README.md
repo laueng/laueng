@@ -21,5 +21,6 @@
     <img width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
     <img width="50" src="https://miro.medium.com/max/720/1*nvtdCw77Al6LgV8wt_ma6Q.webp">
     <img width="50" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_original_logo_icon_146559.png">
+    <img width="50" src="https://mpng.subpng.com/20190111/thz/kisspng-mongodb-logo-database-nosql-postgresql-how-to-create-an-outstanding-tech-stack-clickup-bl-5c391bdf9cff48.4731136215472465596431.jpg">
     </div>
 </div>    
