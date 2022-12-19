@@ -2,7 +2,7 @@
     <h1 align="center">👋¡HELLO, EVERYONE!</h2>
     <img src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif" width="300" />
     <h1 align="center">I´m Laura.</h2>
-    <h3 align="center"> 👩‍💻A developer, 👷‍♀️engineer and ❤️‍🔥passionate about technology. I was a Crew member aboard the Misiontic 2022-UNAL.🚀👩‍🚀
+    <h3 align="center"> 👩‍💻A developer, 👷‍♀️engineer and ❤️‍🔥very passionate about technology. I was a Crew member aboard the Misiontic 2022-UNAL.🚀👩‍🚀
     </h3>
     
     
@@ -16,7 +16,7 @@
     width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"
     width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql-plain.svg" title="Git" alt="Git"
     width="40" height="40"/>
     </div>
 </div>    
