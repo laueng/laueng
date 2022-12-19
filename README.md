@@ -13,11 +13,12 @@
 <h3> 🔥🔧 LENGUAGES & TOOLS:</h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" alt="Git"
-    width="40" height="40"/>&nbsp;
+    width="100" height="40"/>&nbsp;
+    <img width="100" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"
-    width="40" height="40"/>
+    width="100" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" alt="Git"
-    width="40" height="40"/>
+    width="100" height="40"/>
     <img width="100" src="https://user-images.githubusercontent.com/113802190/208328701-3f90135b-fcd2-4d6c-8b64-78bea5630529.png">
     </div>
 </div>    
