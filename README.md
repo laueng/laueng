@@ -13,8 +13,7 @@
 <h3> 🔥🔧 LENGUAGES & TOOLS:</h3>
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Git" alt="Git"
-    width="100" height="40"/>&nbsp;
-    
+    width="50" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git"
     width="50" height="50"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" alt="Git"
