@@ -19,6 +19,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="Git" alt="Git"
     width="50" height="50"/>
     <img width="50" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png">
-    <img width="50" src="https://user-images.githubusercontent.com/113802190/208328701-3f90135b-fcd2-4d6c-8b64-78bea5630529.png"
+    <img width="50" src="https://miro.medium.com/max/720/1*nvtdCw77Al6LgV8wt_ma6Q.webp"
     </div>
 </div>    
