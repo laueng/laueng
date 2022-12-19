@@ -2,7 +2,7 @@
     <h1 align="center">👋¡HELLO, EVERYONE!</h2>
     <img src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif" width="300" />
     <h1 align="center">I´m Laura.</h2>
-    <h3 align="center"> 👩‍💻A developer, 👷‍♀️engineer and ❤️‍🔥very passionate about technology. I was a Crew member aboard the Misiontic 2022-UNAL.🚀👩‍🚀
+    <h3 align="left"> 👩‍💻A developer, 👷‍♀️engineer and ❤️‍🔥very passionate about technology. I was a Crew member aboard the Misiontic 2022-UNAL.🚀👩‍🚀
     </h3>
     
     
