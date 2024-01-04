@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">👋¡HELLO, EVERYONE!</h2>
-    <img src="[[https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif](https://firefly.adobe.com/public/t2i?id=urn:aaid:sc:VA6C2:87778c9c-ed91-4e02-9793-13cc037bce50](https://drive.google.com/file/d/1ABb6q-BWMnUOtSl1Rb6ldtlZyWoRPQrp/view?usp=drive_link))" width="300" />
+    <img src="(https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif](https://firefly.adobe.com/public/t2i?id=urn:aaid:sc:VA6C2:87778c9c-ed91-4e02-9793-13cc037bce50](https://drive.google.com/file/d/1ABb6q-BWMnUOtSl1Rb6ldtlZyWoRPQrp/view?usp=drive_link)" width="300" />
     <h1 align="center">I´m Laura.</h2>
     <h3 align="left"> 👩‍💻A developer, 👷‍♀️engineer and ❤️‍🔥very passionate about technology. 
     </h3> 
