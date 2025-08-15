@@ -2,7 +2,7 @@
     <h1 align="center">👋¡HELLO, EVERYONE!</h2>
     <img src="https://media.giphy.com/media/l3V0dy1zzyjbYTQQM/giphy.gif" width="300" />
     <h1 align="center">I´m Laura.</h2>
-    <h3 align="left"> 👩‍💻A developer, 👷‍♀️engineer and ❤️‍🔥very passionate about technology. 
+    <h3 align="left"> 👩‍💻A developer,❤️‍🔥very passionate about technology. 
     </h3> 
  
 <div align="left">
